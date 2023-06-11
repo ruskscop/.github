@@ -1,1 +1,1 @@
-[<img src="profile/ruskcop - banner.png" alt="ruskcop" />](https://ruskcop.rf.gd)
+[<img src="profile/banner.png" alt="ruskcop" />](https://ruskcop.rf.gd)
